@@ -81,7 +81,7 @@
           <div class="table-responsive">
             <table id="mytable" class="table table-bordred table-striped" style="color:black;">
                 <thead>
-                  <th style="width:65%">Task</th>
+                  <th style="width:50%">Task</th>
                   <th style="width:10%">Due Date</th>
                   <th style="width:10%">Edit</th>
                   <th style="width:10%">Delete</th>
@@ -140,11 +140,11 @@
           <div class="table-responsive">
             <table id="mytable" class="table table-bordred table-striped" style="color:black;">
                 <thead>
-                  <th style="width:65%">Task</th>
-                  <th style="width:10%">Due Date</th>
-                  <th style="width:10%">Edit</th>
-                  <th style="width:10%">Delete</th>
-                  <th style="width:10%">Status</th>
+                  <th style="width:50%">Task</th>
+                  <th style="width:12%">Due Date</th>
+                  <th style="width:12%">Edit</th>
+                  <th style="width:12%">Delete</th>
+                  <th style="width:12%">Status</th>
                 </thead>
                 <tabel>
                    <?php foreach($results as $res):?>
