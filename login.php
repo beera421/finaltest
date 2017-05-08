@@ -16,7 +16,8 @@
       
 
 <hr>
-<div class="container" style="color:black">
+<div class="container" style="width: 24%;position: relative;center: -30%;background: #40E0D0;padding: 8px 10px 8px 12px;color: #DC143C;border-radius: 7px;" >
+
   <h2>Log In</h2>
   <form method="post" action="index.php" >
     <div class="form-group">
