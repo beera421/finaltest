@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <!-- Theme Made By www.w3schools.com - No Copyright -->
-  <title>WE-DO</title>
+  <title>Planner</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -15,25 +15,25 @@
   body {
       font: 400 15px Lato, sans-serif;
       line-height: 1.8;
-      color: #EEEEEE;
+      color: #Gray;
   }
   h2 {
       font-size: 24px;
       text-transform: uppercase;
-      color: #303030;
+      color: #Gray;
       font-weight: 600;
       margin-bottom: 30px;
   }
   h4 {
       font-size: 19px;
       line-height: 1.375em;
-      color: #303030;
+      color: #Gray;
       font-weight: 400;
       margin-bottom: 30px;
   }  
   .jumbotron {
-      background-color: #375c96;
-      color: #fff;
+      background-color: #Gray;
+      color: #Gray;
       padding: 2px 25px;
       font-family: Montserrat, sans-serif;
   }
@@ -41,14 +41,14 @@
       padding: 60px 50px;
   }
   .bg-grey {
-      background-color: #f6f6f6;
+      background-color: #Gray;
   }
   .logo-small {
-      color: #375c96;
+      color: #Gray;
       font-size: 50px;
   }
   .logo {
-      color: #375c96;
+      color: #Gray;
       font-size: 200px;
   }
   .thumbnail {
@@ -63,13 +63,13 @@
   }
   .carousel-control.right, .carousel-control.left {
       background-image: none;
-      color: #375c96;
+      color: #F08080;
   }
   .carousel-indicators li {
-      border-color: #375c96;
+      border-color: #F08080;
   }
   .carousel-indicators li.active {
-      background-color: #375c96;
+      background-color: #F08080;
   }
   .item h4 {
       font-size: 19px;
@@ -82,7 +82,7 @@
       font-style: normal;
   }
   .panel {
-      border: 1px solid #375c96; 
+      border: 1px solid #F08080; 
       border-radius:0 !important;
       transition: box-shadow 0.5s;
   }
@@ -90,13 +90,13 @@
       box-shadow: 5px 0px 40px rgba(0,0,0, .2);
   }
   .panel-footer .btn:hover {
-      border: 1px solid #375c96;
-      background-color: #fff !important;
-      color: #f4511e;
+      border: 1px solid #F08080;
+      background-color: #F08080 !important;
+      color: #F08080;
   }
   .panel-heading {
-      color: #fff !important;
-      background-color: #f4511e !important;
+      color: #F08080 !important;
+      background-color: #F08080 !important;
       padding: 25px;
       border-bottom: 1px solid transparent;
       border-top-left-radius: 0px;
@@ -105,23 +105,23 @@
       border-bottom-right-radius: 0px;
   }
   .panel-footer {
-      background-color: white !important;
+      background-color:LightCoral !important;
   }
   .panel-footer h3 {
       font-size: 32px;
   }
   .panel-footer h4 {
-      color: #aaa;
+      color: #F08080;
       font-size: 14px;
   }
   .panel-footer .btn {
       margin: 15px 0;
-      background-color: #375c96;
-      color: #fff;
+      background-color: #F08080;
+      color: #F08080;
   }
   .navbar {
       margin-bottom: 0;
-      background-color: #375c96;
+      background-color: #F08080;
       z-index: 9999;
       border: 0;
       font-size: 12px !important;
@@ -131,20 +131,20 @@
       font-family: Montserrat, sans-serif;
   }
   .navbar li a, .navbar .navbar-brand {
-      color: #fff !important;
+      color: #F08080 !important;
   }
   .navbar-nav li a:hover, .navbar-nav li.active a {
-      color: #375c96 !important;
-      background-color: #fff !important;
+      color: #F08080 !important;
+      background-color: #F08080 !important;
   }
   .navbar-default .navbar-toggle {
       border-color: transparent;
-      color: #fff !important;
+      color: #F08080!important;
   }
   footer .glyphicon {
       font-size: 20px;
       margin-bottom: 20px;
-      color: #375c96;
+      color: #F08080;
   }
   .slideanim {visibility:hidden;}
   .slide {
@@ -207,7 +207,7 @@
 </nav>
 
 <div class="jumbotron text-center">
-  <h1>Go-Do</h1> 
+  <h1>Planner</h1> 
   <p>manage time manage life</p> 
 </div>
 </body>
