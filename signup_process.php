@@ -48,7 +48,7 @@
       <!-- <label>Gender:</label> -->
       <input type="text" name="gender" class="form-control" id="pwd" placeholder="Enter gender">
     </div>
-    <input type="submit" action="createaccount.php" value="Create Account" class="btn btn-default">
+    <input type="submit" action="createaccount.php" value="Sign In" class="btn btn-default">
   </form>
 </div><br>
 </body>
