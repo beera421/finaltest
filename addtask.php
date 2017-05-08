@@ -26,7 +26,7 @@
         <input type="date" name="duedate" class="form-control" id="duedate">
       </div>
       <div class="form-group">
-        <label>Due Date:</label>
+        <label>End Date:</label>
         <input type="hidden" name="action" class="form-control" value="add_task">
       </div>
       <div class="form-group">
