@@ -8,8 +8,8 @@
 <div id="about" class="container-fluid">
   <div class="row">
     <div class="col-sm-8">
-      <h2>Account Details</h2><br>
-      <h4>This is your account home. Please enter your information and click on the "Sign In" button to create an account.</h4>
+  <h2>Account Details</h2><br>
+  <h4>This is your account home. Please enter your information and click on the "Sign In" button to create an account.</h4>
       <br>
     </div>
   </div>
@@ -17,7 +17,7 @@
       
 
 
-<div class="container" style="width: 28%;position: relative;left: -25%;background: #00FF00;padding: 8px 10px 8px 12px;color: #DC143C;border-radius: 7px;">
+<div class="container" style="width:25%;position: relative;left: -10%;background: #F08080;padding: 8px 10px 8px 12px;color: #000000;border-radius: 7px;">
   <h2>User Profile</h2>
   <form method="post" action="createaccount.php">
     <div class="form-group">
