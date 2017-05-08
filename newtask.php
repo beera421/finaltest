@@ -81,7 +81,7 @@
           <div class="table-responsive">
             <table id="mytable" class="table table-bordred table-striped" style="color:black;">
                 <thead>
-                  <th style="width:50%">Task</th>
+                  <th style="width:30%">Task</th>
                   <th style="width:10%">Due Date</th>
                   <th style="width:10%">Edit</th>
                   <th style="width:10%">Delete</th>
@@ -140,7 +140,7 @@
           <div class="table-responsive">
             <table id="mytable" class="table table-bordred table-striped" style="color:black;">
                 <thead>
-                  <th style="width:50%">Task</th>
+                  <th style="width:30%">Task</th>
                   <th style="width:12%">Due Date</th>
                   <th style="width:12%">Edit</th>
                   <th style="width:12%">Delete</th>
