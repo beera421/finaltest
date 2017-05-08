@@ -38,7 +38,7 @@
         <input type="hidden" name="action" class="form-control" value="after_edit">
       </div>
       <div class="form-group">
-        <input type="submit" value="Finish Editing" class="btn btn-default" />
+        <input type="submit" value="Done Editing" class="btn btn-default" />
       </div>
     </form>
   </div>
