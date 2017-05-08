@@ -7,8 +7,8 @@
 <div id="about" class="container-fluid">
   <div class="row">
     <div class="col-sm-8">
-      <h2>Get Going</h2><br>
-      <h4>To access your account, please enter your username and password and then click on the "Login" button. If this is your first time, enter your info and click on the "Sign Up" button to create an account.</h4>
+      <h2>Get Going now</h2><br>
+      <h4>To access your account, please enter your username and password and then click on the "Login" button. If this is your first time here, click on the "Create" button to create an account.</h4>
       <br>
     </div>
   </div>
@@ -37,7 +37,7 @@
 </div>
 
 <div class="container">
-  <h2>Create Account</h2>
+  <h2>Create your Account</h2>
   <form method="post" action="signup_process.php">
     <input type="submit" value="Create Account" class="btn btn-default">
   </form>
