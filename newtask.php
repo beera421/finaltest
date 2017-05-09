@@ -152,8 +152,8 @@
                       <?php $item_status = $res['isdone'];
                         if ($item_status == 1){
                       ?>
-                        <td> <span style='text-decoration:line-through; font-style: italic; color: #c1c1c1'><?php echo $res['task'];?></span></td>
-                        <td> <span style='text-decoration:line-through; font-style: italic; color: #c1c1c1'><?php echo $res['duedate'];?></span></td>
+                        <td> <span style='text-decoration:line-through; font-style: italic; color: black'><?php echo $res['task'];?></span></td>
+                        <td> <span style='text-decoration:line-through; font-style: italic; color: black'><?php echo $res['duedate'];?></span></td>
                         <td>
                           <form action = 'index.php' method = 'post' >
                             <input type="hidden" class="btn btn-danger" name = 'action' value="edit"/>
