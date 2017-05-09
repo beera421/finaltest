@@ -17,7 +17,7 @@
     </div>
   </div>
 
-  <div class="container" style="color:black"> 
+  <div class="container" style="width:40%;position: relative;left: -10%;background: #F08080;padding: 8px 10px 8px 12px;color: #000000;border-radius: 7px;"> 
     <form method="post" action="index.php" >
       <div class="form-group">
         <label>Task:</label>
