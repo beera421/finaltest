@@ -74,7 +74,7 @@
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
   <script src="http://getbootstrap.com/dist/js/bootstrap.min.js"></script>
 
-<div class="container">
+<div class="container" style="width:65%;position: relative;left: -10%;background: #F08080;padding: 8px 10px 8px 12px;color: #000000;border-radius: 7px;">
     <div class="row">
       <div class="col-md-12">
         <h4>My Tasks</h4>
@@ -133,7 +133,7 @@
 
 <br><hr><br>
 
-<div class="container">
+<div class="container" style="width:65%;position: relative;left: -10%;background: #F08080;padding: 8px 10px 8px 12px;color: #000000;border-radius: 7px;">
     <div class="row">
       <div class="col-md-12">
         <h4>My Completed Tasks</h4>
