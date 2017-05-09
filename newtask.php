@@ -18,7 +18,7 @@
     text-decoration: line-through;
     }
     .todolist{
-        background-color:#FFF;
+        background-color:#fff;
         padding:20px 20px 10px 20px;
         margin-top:30px;
     }
@@ -33,7 +33,7 @@
     li.ui-state-default{
         background:#fff;
         border:none;
-        border-bottom:1px solid #ddd;
+        border-bottom:1px solid #fff;
     }
 
     li.ui-state-default:last-child{
@@ -41,13 +41,13 @@
     }
 
     .todo-footer{
-        background-color:#B0C4DE;
+        background-color:#fff;
         margin:0 -20px -10px -20px;
         padding: 10px 20px;
     }
     #done-items li{
         padding:10px 0;
-        border-bottom:1px solid #ddd;
+        border-bottom:1px solid #fff;
         text-decoration:line-through;
     }
     #done-items li:last-child{
